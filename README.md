@@ -1,4 +1,4 @@
-# VHP4Safety webapge
+# VHP4Safety webpage
 
 Repository to redirect from vhp4safety.nl to ScienCrew
 
